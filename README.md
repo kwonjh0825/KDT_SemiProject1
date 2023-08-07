@@ -12,6 +12,9 @@ Travel Maker 는 여행자들이 자신의 여행 경험을 공유하고, 다른
 3. 검색 기능
     - 등록된 여행지 및 후기에 대한 검색 기능을 제공합니다.
 
+## ERD 설계
+<img width="720" alt="image" src="https://github.com/kwonjh0825/TIL-Today-I-Learned/assets/63788871/a38b8cd3-f526-44b6-ad56-01f56a27a86c">
+
 ## 시연 화면
 1. 메인 페이지
 <img width="826" alt="Screenshot 2023-07-28 at 3 27 11 PM" src="https://github.com/kwonjh0825/TIL-Today-I-Learned/assets/63788871/593a7cbf-50f4-4af9-87f1-a795d94d36cc">
